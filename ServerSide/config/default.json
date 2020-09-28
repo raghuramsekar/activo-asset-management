@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://raghuram:Ramhussey48@cluster0.wq7kw.mongodb.net/activo-asset?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
